@@ -66,14 +66,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots of your app here)*
-
----
-
 ## 🎯 Use Case
 
 This project can be used for:
@@ -81,14 +73,6 @@ This project can be used for:
 * Educational purposes
 * Learning machine learning deployment
 * Basic healthcare awareness
-
----
-
-## ⚠️ Disclaimer
-
-This system is for **educational purposes only** and should not be used as a substitute for professional medical advice.
-
----
 
 ## 👩‍💻 Author
 
